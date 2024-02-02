@@ -3,7 +3,7 @@ We are pleased to offer access to detailed domain information, including compreh
 
 
 # Introduction
-Welcome to the  Historical-Whois-Lookup-API repository! This API offers comprehensive domain data, which includes detailed domain registration, contact, and status information.
+**Welcome to the  Historical-Whois-Lookup-API repository! This API offers comprehensive domain data, which includes detailed domain registration, contact, and status information.**
 
 # Features
 
